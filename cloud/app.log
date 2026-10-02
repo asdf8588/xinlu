@@ -1,0 +1,37 @@
+INFO:     127.0.0.1:59509 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59544 - "GET /digital-human.html%3B HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59544 - "GET /models/haru/haru_greeter_t03.model3.json%3B HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59544 - "GET /ai/tts?meta=1&text=%E4%BD%A0%E5%A5%BD; HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59544 - "GET /vendor/pixi-live2d-cubism4.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59575 - "GET /digital-human.html HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59577 - "GET /models/haru/haru_greeter_t03.model3.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59579 - "GET /vendor/pixi.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59581 - "GET /wallpaper.html HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59597 - "POST /ai/chat/stream HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59604 - "GET /ai/tts?meta=1&text=%E4%BD%A0%E5%A5%BD%E5%91%80 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59628 - "GET /digital-human.html HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59630 - "GET /vendor/live2dcubismcore.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59628 - "GET /vendor/pixi.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59633 - "GET /digital-human.html HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59633 - "GET /vendor/pixi.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59630 - "GET /vendor/pixi-live2d-cubism4.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59633 - "GET /vendor/live2dcubismcore.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59637 - "GET /vendor/pixi-live2d-cubism4.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59630 - "GET /models/haru/haru_greeter_t03.model3.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59633 - "GET /models/haru/haru_greeter_t03.model3.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59628 - "GET /models/haru/haru_greeter_t03.2048/texture_00.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59630 - "GET /models/haru/haru_greeter_t03.moc3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59636 - "GET /models/haru/haru_greeter_t03.2048/texture_01.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59633 - "GET /models/haru/haru_greeter_t03.moc3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59637 - "GET /models/haru/haru_greeter_t03.2048/texture_00.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59639 - "GET /models/haru/haru_greeter_t03.2048/texture_01.png HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59630 - "GET /models/haru/motion/haru_g_idle.motion3.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59628 - "GET /models/haru/motion/haru_g_m15.motion3.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59638 - "GET /models/haru/motion/haru_g_m07.motion3.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59636 - "GET /models/haru/motion/haru_g_m07.motion3.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59633 - "GET /models/haru/motion/haru_g_idle.motion3.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59637 - "GET /models/haru/haru_greeter_t03.pose3.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59639 - "GET /models/haru/motion/haru_g_m15.motion3.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59630 - "GET /models/haru/haru_greeter_t03.pose3.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59638 - "GET /models/haru/haru_greeter_t03.physics3.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59628 - "GET /models/haru/haru_greeter_t03.physics3.json HTTP/1.1" 200 OK

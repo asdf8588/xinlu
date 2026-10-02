@@ -1,0 +1,9 @@
+INFO:     Started server process [5304]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8085 (Press CTRL+C to quit)
+C:\Users\Admin\AppData\Roaming\Python\Python311\site-packages\pydantic\_internal\_generate_schema.py:2274: UnsupportedFieldAttributeWarning: The 'validation_alias' attribute with value AliasChoices(choices=['user_id', 'userId']) was provided to the `Field()` function, which has no effect in the context it was used. 'validation_alias' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+C:\Users\Admin\AppData\Roaming\Python\Python311\site-packages\pydantic\_internal\_generate_schema.py:2274: UnsupportedFieldAttributeWarning: The 'validation_alias' attribute with value AliasChoices(choices=['session_id', 'sessionId']) was provided to the `Field()` function, which has no effect in the context it was used. 'validation_alias' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+2026-10-02 19:17:27,901 INFO [httpx] HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
